@@ -17,25 +17,18 @@
       <description>Memos 是我最近爱上使用的工具，是一个开源的自托管知识库，可以用来记录生活，编写日记等。&#xA;Github：https://github.com/usememos/memos&#xA;部署完成后，我在别的平台也写了很多文章，应该如何导入历史数据呢？</description>
     </item>
     <item>
+      <title>Hugo如何使用?</title>
+      <link>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</guid>
+      <description>作为一个经常逛技术论坛、博客的人，很羡慕大神们都有一个非常炫酷的主页，我也很想搭建一个博客。同时作为一位后端程序员，我对前端技术只限于HTML，查阅了很多资料，终于找到一个非常适合小白入门的博客，那就是 Hugo&#xA;1. Hugo 是什么？ 主页：https://gohugo.io/&#xA;Github：https://github.com/gohugoio/hugo&#xA;Hugo 是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让构建网站再次变得有趣。&#xA;2. 如何使用 Hugo ？ 2.1 下载安装 Hugo 下载地址：https://github.com/gohugoio/hugo/releases&#xA;将源码包下载完成后，放置至任意路径，随后将该目录添加至环境变量即可。&#xA;2.2 新建一个网站 E:\&amp;gt;hugo new site mywebsite Congratulations! Your new Hugo site was created in E:\GitHub\mywebsite. Just a few more steps... 1. Change the current directory to E:\GitHub\mywebsite. 2. Create or install a theme: - Create a new theme with the command &amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34; - Install a theme from https://themes.</description>
+    </item>
+    <item>
       <title>First_post</title>
       <link>https://danielchan-25.github.io/first_post/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://danielchan-25.github.io/first_post/</guid>
       <description>First_post</description>
-    </item>
-    <item>
-      <title>Hugo如何使用?</title>
-      <link>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</guid>
-      <description>作为一个经常逛技术论坛、博客的人，很羡慕大神们都有一个非常炫酷的主页，我也很想搭建一个博客。同时作为一位后端程序员，我对前端技术只限于HTML，查阅了很多资料，终于找到一个非常适合小白入门的博客，那就是 Hugo&#xA;1. Hugo 是什么？ 主页：https://gohugo.io/&#xA;Github：https://github.com/gohugoio/hugo&#xA;Hugo 是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让构建网站再次变得有趣。&#xA;2. 如何使用 Hugo ？ 2.1 下载安装 Hugo 下载地址：https://github.com/gohugoio/hugo/releases&#xA;将源码包下载完成后，放置至任意路径，随后将该目录添加至环境变量即可。&#xA;2.2 新建一个网站 E:\&amp;gt;hugo new site mywebsite Congratulations! Your new Hugo site was created in E:\GitHub\mywebsite. Just a few more steps... 1. Change the current directory to E:\GitHub\mywebsite. 2. Create or install a theme: - Create a new theme with the command &amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34; - Install a theme from https://themes.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://danielchan-25.github.io/markdown-syntax-guide/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://danielchan-25.github.io/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bear</title>
