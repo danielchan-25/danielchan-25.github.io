@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alex&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memos导入历史数据</title>
+      <link>http://localhost:1313/blog/2024-04-03-memos%E5%AF%BC%E5%85%A5%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-04-03-memos%E5%AF%BC%E5%85%A5%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</guid>
+      <description>Memos 是我最近爱上使用的工具，是一个开源的自托管知识库，可以用来记录生活，编写日记等。&#xA;Github：https://github.com/usememos/memos&#xA;部署完成后，我在别的平台也写了很多文章，应该如何导入历史数据呢？</description>
+    </item>
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/blog/2024-04-01-first_post/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-04-01-first_post/</guid>
+      <description>First_post</description>
+    </item>
+    <item>
+      <title>Hugo如何使用?</title>
+      <link>http://localhost:1313/blog/2024-04-01-hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-04-01-hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</guid>
+      <description>作为一个经常逛技术论坛、博客的人，很羡慕大神们都有一个非常炫酷的主页，我也很想搭建一个博客。同时作为一位后端程序员，我对前端技术只限于HTML，查阅了很多资料，终于找到一个非常适合小白入门的博客，那就是 Hugo&#xA;1. Hugo 是什么？ 主页：https://gohugo.io/&#xA;Github：https://github.com/gohugoio/hugo&#xA;Hugo 是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让构建网站再次变得有趣。&#xA;2. 如何使用 Hugo ？ 2.1 下载安装 Hugo 下载地址：https://github.com/gohugoio/hugo/releases&#xA;将源码包下载完成后，放置至任意路径，随后将该目录添加至环境变量即可。&#xA;2.2 新建一个网站 E:\&amp;gt;hugo new site mywebsite Congratulations! Your new Hugo site was created in E:\GitHub\mywebsite. Just a few more steps... 1. Change the current directory to E:\GitHub\mywebsite. 2. Create or install a theme: - Create a new theme with the command &amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34; - Install a theme from https://themes.</description>
+    </item>
+  </channel>
+</rss>
