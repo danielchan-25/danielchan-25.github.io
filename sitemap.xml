@@ -2,27 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://danielchan-25.github.io/blog/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://danielchan-25.github.io/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024-04-03-memos%E5%AF%BC%E5%85%A5%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</loc>
+    <loc>https://danielchan-25.github.io/memos%E5%AF%BC%E5%85%A5%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024-04-01-first_post/</loc>
+    <loc>https://danielchan-25.github.io/first_post/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://danielchan-25.github.io/blog/hugo/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024-04-01-hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <loc>https://danielchan-25.github.io/blog/markdown/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://danielchan-25.github.io/markdown-syntax-guide/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielchan-25.github.io/blog/syntax/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielchan-25.github.io/bear/</loc>
+  </url><url>
+    <loc>https://danielchan-25.github.io/hugo/</loc>
   </url>
 </urlset>
