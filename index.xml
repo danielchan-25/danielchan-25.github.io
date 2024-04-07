@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo ʕ•ᴥ•ʔ Bear on Alex&#39;s Blog</title>
+    <title>Home on Alex&#39;s Blog</title>
     <link>https://danielchan-25.github.io/</link>
-    <description>Recent content in Hugo ʕ•ᴥ•ʔ Bear on Alex&#39;s Blog</description>
+    <description>Recent content in Home on Alex&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
@@ -21,7 +21,7 @@
       <link>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://danielchan-25.github.io/hugo%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8/</guid>
-      <description>作为一个经常逛技术论坛、博客的人，很羡慕大神们都有一个非常炫酷的主页，我也很想搭建一个博客。同时作为一位后端程序员，我对前端技术只限于HTML，查阅了很多资料，终于找到一个非常适合小白入门的博客，那就是 Hugo&#xA;1. Hugo 是什么？ 主页：https://gohugo.io/&#xA;Github：https://github.com/gohugoio/hugo&#xA;Hugo 是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让构建网站再次变得有趣。&#xA;2. 如何使用 Hugo ？ 2.1 下载安装 Hugo 下载地址：https://github.com/gohugoio/hugo/releases&#xA;将源码包下载完成后，放置至任意路径，随后将该目录添加至环境变量即可。&#xA;2.2 新建一个网站 E:\&amp;gt;hugo new site mywebsite Congratulations! Your new Hugo site was created in E:\GitHub\mywebsite. Just a few more steps... 1. Change the current directory to E:\GitHub\mywebsite. 2. Create or install a theme: - Create a new theme with the command &amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34; - Install a theme from https://themes.</description>
+      <description>作为一个经常逛技术论坛、博客的人，很羡慕大神们都有一个非常炫酷的主页，我也很想搭建一个博客。同时作为一位后端程序员，我对前端技术只限于HTML，查阅了很多资料，终于找到一个非常适合小白入门的博客，那就是 Hugo&#xA;1. Hugo 是什么？ 主页：https://gohugo.io/&#xA;Github：https://github.com/gohugoio/hugo&#xA;Hugo 是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让构建网站再次变得有趣。&#xA;2. 为什么使用 Hugo ？ 无它，只因简单。&#xA;3. 如何使用 Hugo ？ 3.1 下载安装 Hugo 下载地址：https://github.com/gohugoio/hugo/releases&#xA;将源码包下载完成后，放置至任意路径，随后将该目录添加至环境变量即可。&#xA;3.2 新建一个网站 E:\&amp;gt;hugo new site mywebsite Congratulations! Your new Hugo site was created in E:\GitHub\mywebsite. Just a few more steps... 1. Change the current directory to E:\GitHub\mywebsite. 2. Create or install a theme: - Create a new theme with the command &amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34; - Install a theme from https://themes.</description>
     </item>
     <item>
       <title>First_post</title>
@@ -35,21 +35,7 @@
       <link>https://danielchan-25.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielchan-25.github.io/about/</guid>
-      <description>1. 个人介绍 const author = { name: &amp;#39;陈某&amp;#39;, create_date: 1997, tags: [&amp;#39;后端程序员&amp;#39;, &amp;#39;运维工程师&amp;#39;, &amp;#39;数码爱好者&amp;#39;], address: &amp;#39;广州&amp;#39;, email: &amp;#39;alexchan0325@gmail.com&amp;#39;, blog: &amp;#39;https://danielchan-25.github.io&amp;#39;, introduce: &amp;#39;一个不喜欢打工的人。&amp;#39; } </description>
-    </item>
-    <item>
-      <title>Bear</title>
-      <link>https://danielchan-25.github.io/bear/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielchan-25.github.io/bear/</guid>
-      <description>Bear Website: https://bearblog.dev&#xA;There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.&#xA;Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.&#xA;Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://danielchan-25.github.io/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielchan-25.github.io/hugo/</guid>
-      <description>Hugo Website: https://gohugo.io&#xA;Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:</description>
+      <description>About 我叫 AlexChan，1997年出生，广东人。&#xA;在广州从事软件开发工作，以盛产 Bug 闻名的后端程序员，兼运维工程师。&#xA;还是一位数码、骑行爱好者，强迫症患者（克服中）&#xA;最喜欢的励志名言：来自史蒂夫·乔布斯，在斯坦福大学2005年的毕业典礼上发表的演讲中提到的一句话：&#xA;Stay hungry, Stay foolish.</description>
     </item>
   </channel>
 </rss>
