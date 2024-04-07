@@ -31,6 +31,13 @@
       <description>First_post</description>
     </item>
     <item>
+      <title>About</title>
+      <link>https://danielchan-25.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielchan-25.github.io/about/</guid>
+      <description>1. 个人介绍 const author = { name: &amp;#39;陈某&amp;#39;, create_date: 1997, tags: [&amp;#39;后端程序员&amp;#39;, &amp;#39;运维工程师&amp;#39;, &amp;#39;数码爱好者&amp;#39;], address: &amp;#39;广州&amp;#39;, email: &amp;#39;alexchan0325@gmail.com&amp;#39;, blog: &amp;#39;https://danielchan-25.github.io&amp;#39;, introduce: &amp;#39;一个不喜欢打工的人。&amp;#39; } </description>
+    </item>
+    <item>
       <title>Bear</title>
       <link>https://danielchan-25.github.io/bear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
